@@ -24,7 +24,7 @@ Rooted in the Arabic Islamic value of "Yusr" (ease), this ecosystem is for devel
 
 ## Get Started
 
-1. Clone the repo: `git clone https://github.com/yourusername/yusr-ecosystem`
+1. Clone the repo: `git clone https://github.com/mohammedimohamed/yusr`
 2. Explore the frontend: `cd frontend && npm install && npm run dev`
 3. Build a module: Check the [wiki](https://github.com/mohammedimohamed/yusr/wiki) for guides.
 
