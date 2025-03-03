@@ -1,6 +1,6 @@
 # Yusr Ecosystem
 
-**Yusr** (يسر) — meaning "ease" in Arabic, inspired by the promise of simplicity — is a development ecosystem that lets you focus on building what matters. With a stable core and dynamic extensions, Yusr eliminates boilerplate so you can start creating business solutions right away. From frontend to backend, it’s designed to grow with you, not against you.
+**Yusr** (يُسْر) — meaning "ease" in Arabic, inspired by the promise of simplicity — is a development ecosystem that lets you focus on building what matters. With a stable core and dynamic extensions, Yusr eliminates boilerplate so you can start creating business solutions right away. From frontend to backend, it’s designed to grow with you, not against you.
 
 ## The Vision
 
